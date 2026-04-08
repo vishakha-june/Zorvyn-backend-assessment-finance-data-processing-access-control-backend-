@@ -1,4 +1,4 @@
-# Zorvyn-backend-assesment-finance-data-processing-access-control-backend-
+# Zorvyn-backend-assessment-finance-data-processing-access-control-backend
 
 Finance Data Processing and Access Control Backend
 Backend Developer Intern
